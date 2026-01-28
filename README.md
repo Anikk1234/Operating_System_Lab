@@ -100,13 +100,13 @@ This ensures reproducibility for both **grading** and **research replication**.
 ## 📁 Repository Layout (Suggested)
 
 ```
-/exp01_perm_umask/
-/exp02_posix_copy/
+/q1.py/
+/q2.py/
 ...
-/exp20_disk_sched/
-common/
+/q20.py/
+Solved_Experiments/
 README.md
-Makefile
+OS_Lab_20_Experiments.pdf
 ```
 
 ---
@@ -150,6 +150,13 @@ Upon completion, students gain proficiency in:
 Professor, Computer Science & Engineering
 University of Chittagong, Chittagong-4331
 
-Operating System Lab 512
+**Course:** Operating System Laboratory (CSE — 512 OS Lab)
+**Session:** 2022-23
+**Institution:** University of Chittagong, Bangladesh
 
 ---
+
+🎓 *This repository serves as an academic portfolio of implemented OS laboratory simulations, IPC demonstrations, and scheduling/memory experiments developed under instructional supervision.*
+
+---
+
