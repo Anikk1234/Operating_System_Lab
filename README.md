@@ -1,4 +1,4 @@
-# Operating System Lab — Experiments 
+# Operating System Laboratory — Experiments Repository
 
 This repository contains a curated suite of **20 Operating System lab experiments** designed for deterministic, testable, and pedagogically clear outcomes. The labs progressively explore UNIX/POSIX interfaces, classical OS algorithms, scheduling, deadlocks, memory, and file systems.
 
@@ -147,10 +147,9 @@ Upon completion, students gain proficiency in:
 **University:** University of Chittagong, Chittagong-4331
 
 **Instructor:** Muhammad Anwarul Azim
-Professor, Computer Science & Engineering,
+Professor, Computer Science & Engineering
 University of Chittagong, Chittagong-4331
 
-Operating Systems Lab 512
----
+Operating System Lab 512
 
-If you need a **Makefile**, **sample input**, **test harness**, or **CI scripts**, ask and I will generate them.
+---
